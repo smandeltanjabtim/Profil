@@ -1,0 +1,12 @@
+sman8-tanjungjabungtimur/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── images/
+│   │   ├── hero-bg.jpg
+│   │   ├── school-1.jpg
+│   │   ├── school-2.jpg
+│   │   └── logo.png
+│   └── icons/
+└── fonts/
